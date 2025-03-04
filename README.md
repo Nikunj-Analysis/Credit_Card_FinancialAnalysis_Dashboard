@@ -1,5 +1,6 @@
 # Credit_Card_FinancialAnalysis_Dashboard
 
+
 Credit Card Customer and Transaction Report using Power BI:
 This project involved designing and developing an interactive Power BI dashboard to analyze credit card customer behavior and transaction patterns. The goal was to provide valuable insights into revenue generation, customer demographics, and spending habits, assisting stakeholders in making informed business decisions.
 
